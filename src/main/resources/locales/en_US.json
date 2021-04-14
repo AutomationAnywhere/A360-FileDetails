@@ -1,0 +1,13 @@
+{
+	"label": "File Details",
+	"description": "Returns basic file details",
+	"GetFileDetails.label": "File Size",
+	"GetFileDetails.description": "Returns the size of selected file in bytes",
+	"GetFileDetails.node_label": "File Size in Bytes",
+	"GetFileDetails.return_label": "File Size",
+	"GetFileDetails.return_label_description": "Returned in bytes",
+	"GetFileDetails.filePath.label": "Select a File for Anaylsis",
+	"group": "Micah Smith",
+	"vendor": "Micah_Smith"
+
+}
